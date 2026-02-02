@@ -21,6 +21,6 @@
 
 ---
 
-<center>👩‍💻 HTML - CSS - JavaScript | React - Redux | Bootstrap - Sass</center>
+👩‍💻 HTML - CSS - JavaScript | React - Redux | Bootstrap - Sass
 ---
 
