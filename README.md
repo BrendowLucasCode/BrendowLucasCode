@@ -21,7 +21,7 @@
 
 ---
 
-👩‍💻 HTML - CSS - JavaScript | React - Redux | Bootstrap - Sass
+👩‍💻 HTML - CSS - JavaScript | React | Tailwind - Sass
 
 ---
 
